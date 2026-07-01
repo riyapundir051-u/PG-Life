@@ -59,7 +59,33 @@ http://localhost/Pg_life/
 
 ## 📸 Screenshots
 
-Screenshots will be added soon.
+### 🏠 Home Page
+
+![Home Page 1](Screenshot/home-01.png)
+
+![Home Page 2](Screenshot/home-02.png)
+
+### 🔐 Login
+
+![Login](Screenshot/login.png)
+
+### 📝 Sign Up
+
+![Sign Up](Screenshot/Sign_up.png)
+
+### 🏢 Property List
+
+![Property List](Screenshot/Property_list.png)
+
+### 🏠 Property Detail
+
+![Property Detail 1](Screenshot/Property_detail-01.png)
+
+![Property Detail 2](Screenshot/Property_detail-02.png)
+
+### 👤 Dashboard
+
+![Dashboard](Screenshot/Dashboard.png)
 ## 🚀 Future Enhancements
 
 * Online Booking System

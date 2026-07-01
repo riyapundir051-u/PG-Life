@@ -86,6 +86,8 @@ http://localhost/Pg_life/
 ### 👤 Dashboard
 
 ![Dashboard](Screenshot/Dashboard.png)
+
+## 🚀 Future Enhancements
 ## 🚀 Future Enhancements
 
 * Online Booking System
